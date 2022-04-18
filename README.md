@@ -4,3 +4,5 @@
 **You can find two versions:**
 1. Raw version that is just a square looking for apples,
 2. Polished one that truly resembles the Snake game.
+
+## Raw version
