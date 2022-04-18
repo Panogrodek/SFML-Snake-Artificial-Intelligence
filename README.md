@@ -7,3 +7,5 @@
 
 ## Raw version
 ![Sequence 01_3](https://user-images.githubusercontent.com/97810330/163857136-45bc5b23-b64c-4336-946e-2757410fe321.gif)
+As you can see this version is only to demonstrate how Neural Network behaves.
+The code is more transparent for people, that want to learn how this algorithm works.
