@@ -1,4 +1,4 @@
-# Snake-Artificial-Intelligence
+# Snake Artificial Intelligence
 *A simple snake game, that is controled by **Generic Algorithm Neural Networks.***
 
 **You can find two versions:**
